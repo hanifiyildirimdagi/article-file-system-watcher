@@ -1,4 +1,4 @@
-# File Processing with Channels and Queues in .NET
+# Efficient File Processing using FileSystemWatcher in .NET
 
 This repository contains a sample code implementation that demonstrates efficient file processing using channels and queues in .NET. The code showcases how to handle multiple files concurrently, process them asynchronously, and manage the flow of data using channels and queues.
 
